@@ -23,3 +23,10 @@ $ npm install -g live-server && live-server
 $ live server 
 
 -- Este debe ser ejecutado dentro del repositorio de la carpeta --
+
+
+## Para agregar las fisicas ingresar a la pagina
+
+La pagina se divide en varias secciones la primera se enfoca el como llamar al motor de fisicas y la segunda parte se enfoca 
+en la construcción de las paquetes de node para la creación e implementación del motor en los proyectos.
+https://github.com/donmccurdy/aframe-physics-system
